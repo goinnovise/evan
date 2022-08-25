@@ -8,7 +8,7 @@ sidebar:
 
   # Profile information
   name: Akram Reshad
-  tagline: Senior Software Developer
+  tagline: Senior Full Stack Software Developer
   avatar: profile.png
 
   # Sidebar links
@@ -49,9 +49,6 @@ career-profile:
 education:
   - degree: Bachelor of Science in Computer Science | Bachelor of Science in Statistics
     university: University of Reno, Nevada
-
-  - degree: Masters of Data Science
-    university: New York University
 
 experiences:
   - role: Full Stack Software Engineer
