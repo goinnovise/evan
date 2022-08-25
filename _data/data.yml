@@ -7,8 +7,8 @@ sidebar:
   education: True # set to False if you want education in main section instead of in sidebar
 
   # Profile information
-  name: Akram Reshad
-  tagline: Senior Full Stack Software Developer
+  name: Evan Jensen
+  tagline: Software Developer
   avatar: profile.png
 
   # Sidebar links
@@ -16,7 +16,7 @@ sidebar:
   phone:
   website: goinnovise.com
   linkedin:
-  github:
+  github: evanJensengit
   gitlab:
   bitbucket:
   twitter:
@@ -24,15 +24,11 @@ sidebar:
   codewars:
   goodreads: # Number-Username, e.g. 123456-alandoe
 
-  #languages:
-  #- idiom: English
-  #level: Native
-
   interests:
-    - item: Crypto
+    - item:
       link:
 
-    - item: Business
+    - item:
       link:
 
     - item:
@@ -44,100 +40,41 @@ sidebar:
 career-profile:
   title: Career Profile
   summary: |
-    Akram (Ace) has a passion for solving business problems with software. His history doing so began in High School and has been accelerating full-tilt since. Ace has experience delivering value working in the start-up environment all the way Fortune 500's.
 
 education:
-  - degree: Bachelor of Science in Computer Science | Bachelor of Science in Statistics
-    university: University of Reno, Nevada
+  - degree: Bachelor of Science in Computer Science & Software Engineering
+    university: University of Washington Bothell
 
 experiences:
-  - role: Full Stack Software Engineer
-    time: November 2021 - September 2021
-    company: Nostra
-    location: Los Angeles, California
+  - role: Software Engineer
+    company: Sirrus7
+    location: Seattle, WA
     details: |
 
       _Accomplishments_
-        - Worked closely with the CEO to research, design and build customer facing console
-        - Coordinated with other engineer to set up and create AWS through infrastructure as code
-        - Built and scaled ETL pipelines to power data visualization from MongoDB
-        - Lead and managed an Agile team of 3 full-stack engineers
+        - Building the next-generation of a rearchitected SaaS software solution.
+        - Implementing functional parity, with modern componentry.
+        - Developed the MVP of Logic Platform in three months with a team of three other developers using microservices and three-tier architecture.
+        - Worked with stakeholders to gather requirements and meet for weekly stand-up meetings.
+        - Utilized Golang and PostgreSQL to implement the backend logic that allows the Logic Platform to connect to other service’s APIs and automate events within that service’s environment.
+        - Implemented module of Gitlab in the Logic Platform which allows users of the Logic Platform to create personalized integrations that automate events within their Gitlab environment.
+        - Used Docker’s PostgreSQL container to establish consistent environment for developers to work in.
 
-  - role: Back-end Software Engineer Summer Intern, Platform Team
-    time: May 2021 - August 2021
-    company: Coinbase
-    location: San Francisco, California
+  - role: UWB Hacks from Hom Hackathon
+    company: UW Bothel
+    location: Bothel, WA
     details: |
 
       _Accomplishments_
-        - Expanded use of credit/debit card usages to 25+ countries to enable purchases of different cryptocurrencies
-        - Coordinated with platform team to correct and fix bugs that occur on the Coinbase platform
-        - Enabled and authorized the use of PayPal for deposits and withdrawals of cryptocurrency to the European Union
-
-  - role: CTO, Co-Founder
-    time: Aug 2020 - July 2021
-    company: MyKar
-    location: Reno, Nevada
-    details: |
-
-      _Accomplishments_
-        - Raised $60,000 in seed funding for mobile application development, website development, and car dealerships
-        - Developed a mobile application that allows for clients to have their vehicles transferred to their homes
-        - Created a website that is focused on a user-friendly customer experience to request their vehicles to picked up
-        - Work with stakeholders in the Greater Reno and Las Vegas area to create a partnership with MyKar and local car dealerships that express a need for their customers to have their vehicles transferred directly to their home
-
-projects:
-  title: Projects
-  intro: >
-    You can list your side projects or open source libraries in this
-    section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-    Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-
-  assignments:
-    - title: Velocity
-      link: "#hook"
-      tagline: "A responsive website template designed to help startups promote, market and sell their products."
-
-    - title: DevStudio
-      link: "#"
-      tagline: "A responsive website template designed to help web developers/designers market their services."
-
-    - title: Tempo
-      link: "#"
-      tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-    - title: Atom
-      link: "#"
-      tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-    - title: Delta
-      link: "#"
-      tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-
-publications:
-  title: Publications
-  intro: |
-    You can list your publications in this section. Lorem ipsum dolor sit
-    amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-    bibendum fringilla a eu lectus.
-
-  papers:
-    - title: The Art of Computer Programming
-      authors: Donald E. Knuth
-      conference: Addison-Wesley, 1968
-
-    - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-      authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-      conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-    - title: A syntax directed compiler for Algol 60
-      authors: Edgar T. Irons
-      conference: "Comm. ACM 4 (1961), 51–55"
+        - Designed and wrote backend of website using FLASK web framework with four other team members in 48 hours.
+        - Used Amadeus for Developers Self-Service REST API to get data on hotels correlated with zip code and state .
+        - Hosted website on Azure using App Service and received “Best Project Built with Azure” award.        
+        - Project information: https://devpost.com/software/business-trip-planner
 
 skills:
   title: Skills &amp; Proficiencies
-  languages: "C++, Java, Javascript, SQL, R, Python, Go, Shell, HTML/CSS, Ruby"
-  frameworks: "Git, Flask, Django, Node.js, GCP, AWS, PostgreSQL, Docker, React.js, Protobuf, Tensorflow"
+  languages: "Python, Java, Golang, SQL, C/C++"
+  frameworks: "Git, Flask, Node.js, GCP, AWS, PostgreSQL, DynamoDB"
   tools: "Windows, Mac OS, VS Code, Agile, Scrum, SAFe"
   operations: "CICD, Docker, Atlassian Jira"
-  other: "Data Analysis, Problem-solving, Big Data, Data Cleaning, Data Mining, Feature Engineering, Artificial Intelligence, Machine Learning"
+  other: "Data Analysis, Problem-solving, Data Cleaning"
